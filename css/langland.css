@@ -1,0 +1,212 @@
+A:link { text-decoration: none }
+A:active { text-decoration: none }
+A:visited { text-decoration: none }
+A:hover { text-decoration: underline }
+
+
+/* DEFINE UL and LI */
+Select.dropdown
+	{
+	font-size: 8pt;
+	font-family: arial;
+	}
+UL.links
+	{
+	margin: 0;
+	padding: 0;
+	}
+LI.links
+	{
+	font-size: 10pt;
+	font-family: arial;
+	list-style-type: square;
+	margin-left: 16pt;
+	}
+
+/* DEFINE FONTS FOR HR */
+HR.defined
+	{
+	color: #988D54;
+	height: 1pt;
+	}
+
+/* DEFINE DIV.PARAGRAPHS */
+DIV.para
+	{
+	font-size: 10pt;
+	font-family: arial;
+	margin-left: 12pt;
+   	margin-right: 12pt;
+  	line-height: 14pt;
+	}
+
+/* DEFINE FONTS FOR HEADERS */
+FONT.head1
+	{
+	font: 10pt "arial";
+	font-weight: bold;
+	color: #59669A;
+	}
+FONT.head2
+	{
+	font: 12pt "arial";
+	font-weight: bold;
+	color: #59669A;
+	}
+FONT.head3
+	{
+	font: 14pt "arial";
+	font-weight: bold;
+	color: #667699;
+	}
+FONT.head4
+	{
+	font: 14pt "arial";
+	font-weight: bold;
+	color: #59669A;
+	}
+
+/* DEFINE FONTS */
+Font.FontRed8
+	{
+	font-size: 8pt;
+	font-family: arial;
+	color: #8E1735;
+	}
+
+Font.Red8B
+	{
+	font-size: 8pt;
+	font-family: arial;
+	color: #8E1735;
+	font-weight: bold;
+	}
+
+Font.links
+	{
+	font-size: 8pt;
+	font-family: arial;
+	}
+
+Font.Font8
+	{
+	font-size: 8pt;
+	font-family: arial;
+	}
+
+Font.Font9
+	{
+	font-size: 9pt;
+	font-family: arial;
+	}
+
+/* DEFINE FONTS FOR TD */
+TD.links
+	{
+	font-size: 8pt;
+	font-family: arial;
+	}
+TD.Font7
+	{
+	font-size: 7pt;
+	font-family: arial;
+	}
+
+TD.FontWh7
+	{
+	font-size: 7pt;
+	font-family: arial;
+	color: #ffffff;
+	}
+
+TD.Font8
+	{
+	font-size: 8pt;
+	font-family: arial;
+	}
+
+TD.FontWh8
+	{
+	font-size: 8pt;
+	font-family: arial;
+	color: #ffffff;
+	}
+
+TD.Font9
+	{
+	font-size: 9pt;
+	font-family: arial;
+	}
+
+TD.FontWh9
+	{
+	font-size: 9pt;
+	font-family: arial;
+	color: #ffffff;
+	}
+
+TD.Font10
+	{
+	font-size: 10pt;
+	font-family: arial;
+	}
+
+TD.FontWh10
+	{
+	font-size: 10pt;
+	font-family: arial;
+	color: #ffffff;
+	}
+
+TD.Font11
+	{
+	font-size: 11pt;
+	font-family: arial;
+	}
+
+TD.FontWh11
+	{
+	font-size: 11pt;
+	font-family: arial;
+	color: #ffffff;
+	}
+
+TD.Font12
+	{
+	font-size: 12pt;
+	font-family: arial;
+	}
+
+TD.FontWh12
+	{
+	font-size: 12pt;
+	font-family: arial;
+	color: #ffffff;
+	}
+
+/* ADD THIS TO SETUP E NEW SHARED REALTOR APPLICATION */
+TD.8Font
+	{
+	font-size: 8pt;
+	font-family: arial;
+	}
+TD.10Font
+	{
+	font-size: 10pt;
+	font-family: arial;
+	}
+TD.BodySmaller
+	{
+	font-size: 9pt;
+	font-family: arial;
+	vertical-align: bottom;
+	align: left;
+	}
+TD.HeadSmall
+	{
+	font-size: 10pt;
+	font-family: arial;
+	font-weight: bold;
+	vertical-align: bottom;
+	align: left;
+	}
